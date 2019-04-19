@@ -8,7 +8,7 @@ namespace yugioh
         {
             var blue = 6;
             var yellow = 2;
-            var name = "Josh";
+            var name = "Justin";
 
             Console.WriteLine(blue + yellow);
             System.Console.WriteLine(name);
